@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">CodeChallenge</string>
+    <string name="tab_text_1">Headline news</string>
+    <string name="tab_text_2">Custom news</string>
+    <string name="tab_text_3">Profile</string>
+    <string name="news_image">newsImage</string>
+    <string name="check_internet">Please Check Your Internet Connection.</string>
+
+    <!-- Toggle switch texts-->
+    <string name="bitcoin">Bitcoin</string>
+    <string name="apple">Apple</string>
+    <string name="earthquake">Earthquake</string>
+    <string name="animal">Animal</string>
+
+    <string name="username">Username</string>
+    <string name="save">Save</string>
+    <string name="article">article</string>
+
+    <!--Shared preference -->
+    <string name="shared_preference_file">sharedPreference</string>
+    <string name="key_username">username</string>
+
+    <string name="please_type_username">Please Enter Username.</string>
+</resources>

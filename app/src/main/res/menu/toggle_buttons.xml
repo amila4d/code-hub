@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/bitcoin"
+        android:title="@string/bitcoin" />
+
+    <item
+        android:id="@+id/apple"
+        android:title="@string/apple" />
+
+    <item
+        android:id="@+id/earthquake"
+        android:title="@string/earthquake" />
+
+    <item
+        android:id="@+id/animal"
+        android:title="@string/animal" />
+</menu>
